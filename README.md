@@ -5,7 +5,7 @@
    - Next
 
 - 🔭 I’m currently working on:
-   - A cooler version of the Stellar Burgers app
+   - The new version of the Stellar Burgers app
   
 - **Toolbox**
 <div style="display: flex;">
