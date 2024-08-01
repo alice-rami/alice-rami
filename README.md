@@ -5,7 +5,7 @@
    - Next
 
 - 🔭 I’m currently working on:
-   - The new version of the Stellar Burgers app
+   - My Account App
   
 - **Toolbox**
 <div style="display: flex;">
@@ -13,7 +13,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="height: 40px; width: 40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 40px; width: 40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="height: 40px; width: 40px;" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="height: 40px; width: 40px;" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="height: 40px; width: 40px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="height: 40px; width: 40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style="height: 40px; width: 40px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" style="height: 40px; width: 40px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="height: 40px; width: 40px;" />
