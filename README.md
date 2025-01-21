@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning:
-   - Algorithms and Data Structures,
-   - Next
+   - Node.js 
+   - Algorithms and Data Structures
 
 - 🔭 I’m currently working on:
-   - My Account App
+   - My Restaurant App
   
 - **Toolbox**
 <div style="display: flex;">
