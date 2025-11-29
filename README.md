@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning:
-   - Node.js 
-   - Algorithms and Data Structures
-
-- 🔭 I’m currently working on:
-   - My Restaurant App
+   - Node.js
+   - Next.js
+   - Animations
   
 - **Toolbox**
 <div style="display: flex;">
